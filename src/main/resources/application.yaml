@@ -1,0 +1,8 @@
+opensearch:
+  skipSslVerification: true
+  username: admin
+  password: admin
+  transport:
+    host: localhost
+    scheme: https
+    port: 9200
